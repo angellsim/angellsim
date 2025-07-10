@@ -1,8 +1,6 @@
 # 💫 About Me:
 ## Hi! Welcome to my profile ☕🌸  
 
-🌸 Hi! Welcome to my profile 🍇🌷
-
 🎓 System Development student at PUC-GO
 
 🚀 Currently open to work as Front-end Developer, Back-end Developer, or Full-stack Intern
