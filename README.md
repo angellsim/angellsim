@@ -16,8 +16,7 @@
 ✨ Always excited about new projects and challenges! <br/>
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/alicewolf-dev/)
-[![Gmail](https://img.shields.io/badge/Email-red?logo=gmail)](mailto:alicewolffernandes@gmail.com)
+[![Gmail](https://img.shields.io/badge/Email-red?logo=gmail)](mailto:gabriel.wolf@live.com)
 
 
 # 💻 Tech Stack:
@@ -32,7 +31,7 @@
 
 ## 🎯 Atividade Recente
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=licewara&theme=merko&area=true&hide_border=true&custom_title=Meu%20Progresso%20Diário&radius=8)](https://github.com/licewara)
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=licewara&theme=merko&area=true&hide_border=true&custom_title=Meu%20Progresso%20Diário&radius=8)](https://github.com/angellsim)
 
 <details>
   <summary>📌 <b>O que essa seção mostra?</b></summary>
