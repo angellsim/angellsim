@@ -3,7 +3,7 @@
 
 🎓 System Development student at PUC-GO
 
-🚀 Currently open to work as Front-end Developer, Back-end Developer, or Full-stack Intern
+🚀 Currently working as IT Intern at Ação Tecnologia
 
 🖥️ Experience with Java, HTML, CSS, JavaScript, and Python
 
