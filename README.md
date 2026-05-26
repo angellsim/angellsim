@@ -1,19 +1,21 @@
 # 💫 About Me:
-## Hi! Welcome to my profile ☕🌸  
+## Hi! Welcome to my profile ☕🌸
 
-🎓 System Development student at PUC-GO
+🎓 System Development student at PUC Goiás
 
-🚀 Currently working as IT Intern at Ação Tecnologia
+🚀 IT Intern at Ação Tecnologia
 
-🖥️ Experience with Java, HTML, CSS, JavaScript, and Python
+💻 Technologies: Java, C#, Python, React, TypeScript, JavaScript, SQL, PostgreSQL, Supabase
 
-🌱 Constantly learning and improving my skills in both front-end and back-end development
+🔧 Experience with Git/GitHub workflows, pull requests, merges, and application deployment
 
-🎨 Background in Graphic Design and Data Science, bringing creativity and analytical thinking to tech
+🌱 Currently improving my software engineering and full stack development skills
 
-❤️ Passionate about clean code, good UI/UX, and solving real-world problems with technology
+🎨 Background in Graphic Design, bringing creativity and UI/UX awareness into development
 
-✨ Always excited about new projects and challenges! <br/>
+🧠 Interested in software development, problem-solving, automation, and real-world applications
+
+✨ Always learning new technologies and building practical experience <br/>
 
 ## 🌐 Socials:
 [![Gmail](https://img.shields.io/badge/Email-red?logo=gmail)](mailto:gabriel.wolf@live.com)
